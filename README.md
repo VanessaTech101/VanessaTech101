@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Vanessa 🎀✨ <br><br>I’m a Quality Assurance Specialist with a deep passion for cybersecurity and a strong focus on improving digital product quality. I believe in making things better, one test at a time. 😊<br><br>💼 I’ve had the opportunity to work on exciting projects like Unity by Hard Rock, where I contributed to test case design and defect reduction, always striving for efficiency and quality. 🌟<br>🎓 I hold a Bachelor's in Engineering in Computer Science, along with postgraduate degrees in Cybersecurity and International Business Management from Mohawk College. I’m truly grateful for the opportunity to learn and grow. 📚<br>🌱 I’m always excited to learn new things, collaborate with others, and contribute to building secure, high-quality products. Let’s connect and share knowledge! 💬<br><br>🔧 Technical Skills:<br>Manual Testing | Hybrid Application Testing | Mobile Application Testing | Website Testing | Mobile Native Application Testing | Cross Device Testing | Cross Browser Testing | Cross OS Testing | Compatibility Testing | UI Testing | System Testing | Functional Testing | Non-Functional Testing | Regression Testing | Retesting | Exploratory Testing | Smoke Testing | Sanity Testing | User Acceptance Testing (UAT) | E2E Testing (End to End Testing) | Black Box Testing | Performance Testing | Accessibility Testing (NVDA) | Cloud Testing | Test Case Design | Test Plan Creation | Test Scenarios | Test Metrics | Test Closure | Test Cycle | Test Report Creation | Bug Reporting | Root Cause Analysis (RCA) | API Testing | API Testing (Postman) | REST API | CURL | Data Driven Testing | OAuth 2.0<br><br>🛠 Tools & Technologies:<br>JIRA (Defect Tracking, Bug Tracking, Test Case Management, Sprint Planning, Retrospectives) | Zephyr (Test Management) | Practitest (Test Management) | Mantis (Bug Tracking) | Bugzilla (Bug Tracking) | Confluence (Documentation, Requirements Refinement) | BrowserStack (Live Testing on Real Devices/Emulators) | SauceLabs (Cross Browser Testing) | LambdaTest (Cross Browser Testing) | PCloudy (Mobile Testing) | Katalon Studio (Test Automation) | JMeter (Performance Testing) | Newman (API Testing) | Node.js (Test Automation) | Figma (UI/UX Design) | Zeplin (UI/UX Design) | Balsamiq (UI/UX Design) | Lightshot, Awesome Screenshot Recorder, Screenity (Screen Recording & UI Testing) | PostgreSQL (SQL)<br><br>📚 Testing Methodologies:<br>Waterfall Model | STLC (Software Testing Life Cycle) | Agile Methodology (Scrum) | Kanban | Unit Testing | Integration Testing | Top and Bottom Testing<br><br>🏆 Certifications:<br>ISO 27001: Information Security | ISO 27701: Data Privacy | ISO/IEC 12207 (Software Life Cycle Processes) | IT Security Fundamentals | Global Cybersecurity Basics | Privacy and Information Security<br><br>🥇 Awards:<br>Ranked 12th Globally, Glo-Bus Simulation | Jul 2024<br>Graduated with Honors & Dean's List | Apr 2024<br>Invited Speaker, Ignite Radio | Mar 2024<br>
 
-<!--
-**VanessaTech101/VanessaTech101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varsha_naaidu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Varsha Raj) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VanessaTech101&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VanessaTech101&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaTech101&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
